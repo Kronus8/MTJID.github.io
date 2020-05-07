@@ -5,6 +5,7 @@
 Welcome to my page.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am MTJID / Kronus, I am a software engineer / network specialist</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p> Here you can find projects I have worked on and contributed to.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<span id="a">coder@MTJID\Kronus</span>:<span id="b">~</span><span id="c">$</span> cd <!-- kjsdfhkjdhsfkjdshfkj -->home\projects.exe<br/><br/>
 <p><a href="link">ImpactRP Launcher</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 <!--<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>-->
 
